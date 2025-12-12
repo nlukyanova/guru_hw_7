@@ -12,5 +12,8 @@ gradlew.bat
 .idea/
 *.iml
 
+#
+/main/
+
 # Local configuration
 local.properties
