@@ -1,0 +1,16 @@
+# Build outputs
+/build/
+**/build/
+.gradle/
+
+# Gradle wrapper
+gradle/wrapper/gradle-wrapper.jar
+gradlew
+gradlew.bat
+
+# IDE
+.idea/
+*.iml
+
+# Local configuration
+local.properties
